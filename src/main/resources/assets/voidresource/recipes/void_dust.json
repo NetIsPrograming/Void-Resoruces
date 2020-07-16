@@ -1,0 +1,30 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "voidresource:void_fragments"
+    },
+    {
+      "item": "voidresource:void_fragments"
+    },
+    {
+      "item": "voidresource:void_fragments"
+    },
+    {
+      "item": "voidresource:void_fragments"
+    },
+    {
+      "item": "voidresource:void_fragments"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "voidresource:void_dust",
+        "count": 3
+    }
+}

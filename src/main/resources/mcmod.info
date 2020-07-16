@@ -1,0 +1,16 @@
+[
+{
+  "modid": "voidresource",
+  "name": "Void Resources",
+  "description": "...",
+  "version": "${version}",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NetUserGet"],
+  "credits": "Credits",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "IFI",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "voidresource:void_ingot"
+        },
+         "F":
+        {
+            "item": "voidresource:void_fragments"
+        }
+    },
+    
+    "result":
+    {
+        "item": "voidresource:void_block",
+        "count": 1
+    }
+}

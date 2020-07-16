@@ -1,0 +1,18 @@
+//Items
+item.void_ingot.name=Void Ingot
+item.void_fragments.name=Void Fragments
+item.void_dust.name=Void Dust
+
+//Blocks
+tile.void_block.name=Block of Void
+tile.void_ore.name=Void Ore
+
+//Tools
+item.void_sword.name=Void Sword
+item.void_pickaxe.name=Void Pickaxe
+
+//Armor
+item.void_helmet.name=Void Helmet
+item.void_chestplate.name=Void Chestplate
+item.void_leggings.name=Void Leggings
+item.void_boots.name=Void Boots

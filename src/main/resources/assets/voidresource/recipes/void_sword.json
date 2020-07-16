@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " B ",
+        " I ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "voidresource:void_ingot"
+        },
+         "B":
+        {
+            "item": "voidresource:void_block"
+        },
+          "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "voidresource:void_sword",
+        "count": 1
+    }
+}

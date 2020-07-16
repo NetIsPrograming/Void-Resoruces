@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "IBI",
+        "F F",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "voidresource:void_ingot"
+        },
+         "F":
+        {
+            "item": "voidresource:void_fragments"
+        },
+         "B":
+        {
+            "item": "voidresource:void_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "voidresource:void_leggings",
+        "count": 1
+    }
+}

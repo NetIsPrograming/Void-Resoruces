@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "voidresource:items/void_pickaxe"
+   }
+}
